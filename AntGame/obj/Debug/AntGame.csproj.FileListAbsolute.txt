@@ -1,0 +1,10 @@
+d:\documents\visual studio 2013\Projects\AntGame\AntGame\bin\Debug\AntGame.exe.config
+d:\documents\visual studio 2013\Projects\AntGame\AntGame\bin\Debug\AntGame.exe
+d:\documents\visual studio 2013\Projects\AntGame\AntGame\bin\Debug\AntGame.pdb
+d:\documents\visual studio 2013\Projects\AntGame\AntGame\obj\Debug\AntGame.MainForm.resources
+d:\documents\visual studio 2013\Projects\AntGame\AntGame\obj\Debug\AntGame.Properties.Resources.resources
+d:\documents\visual studio 2013\Projects\AntGame\AntGame\obj\Debug\AntGame.csproj.GenerateResource.Cache
+d:\documents\visual studio 2013\Projects\AntGame\AntGame\obj\Debug\AntGame.exe
+d:\documents\visual studio 2013\Projects\AntGame\AntGame\obj\Debug\AntGame.pdb
+d:\documents\visual studio 2013\Projects\AntGame\AntGame\obj\Debug\AntGame.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\AntGame\AntGame\obj\Debug\AntGame.Resource.resources
